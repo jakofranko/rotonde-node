@@ -1,0 +1,19 @@
+{
+  "name": "rotonde-node",
+  "version": "1.0.0",
+  "description": "A little app that serves a Rotonde feed",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "test"
+  },
+  "keywords": [
+    "rotonde",
+    "nataniev"
+  ],
+  "author": "Jake Franklin <jacob.d.franklin@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
